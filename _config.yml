@@ -16,12 +16,12 @@ mastodon: 'aus.social/@danmac'
 #dribbble: 'mydribbble'
 #facebook: 'myfacebook'
 #twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
+linkedin: 'linkedin.com/in/danmacleod/'
 #instagram: 'myinsta'
 #pinterest: 'mypinterest'
 #youtube: 'myyoutube'
 github-user: 'dmac-au'
-#gitlab-user: ''
+gitlab-user: 'dmac_au'
 #codepen: ''
 #steam: ''
 #soundcloud: ''
@@ -37,7 +37,7 @@ github-user: 'dmac-au'
 email: 'dan@dmac.au'
 #messenger: 'myfbchat'
 
-social-links-order: [bluesky, mastodon, github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [bluesky, mastodon, github-user, gitlab-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
